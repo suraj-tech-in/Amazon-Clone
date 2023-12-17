@@ -44,7 +44,7 @@ Feel free to customize and extend the project according to your needs!
 
 ## Contributing
 
-If you would like to contribute to the project, please follow these steps:
+As i have not used javascript or made it completely responsive, if you would like to contribute to the project, please follow these steps:
 
  1.   Fork the repository.
  2.   Create a new branch for your feature: git checkout -b feature-name
