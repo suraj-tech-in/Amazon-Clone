@@ -37,7 +37,7 @@ These instructions will help you set up a copy of the project on your local mach
 
 To use the Amazon clone, follow these steps:
 
-1. Open the index.html file in your preferred web browser.
+1. Open the `index.html` file in your preferred web browser.
 2. Use the Amazon clone.
 
 Feel free to customize and extend the project according to your needs!
