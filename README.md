@@ -21,8 +21,8 @@ A simple HTML and CSS implementation of an Amazon clone.
 
 Include screenshots or GIFs of your project to give users a quick preview.
 
-![Screenshot 1](screenshot/screen.png)
-![Screenshot 2](screenshot/screen2.png)
+![Screenshot 1](screenshot/screen.jpg)
+![Screenshot 2](screenshot/screen2.jpg)
 
 ## Getting Started
 
