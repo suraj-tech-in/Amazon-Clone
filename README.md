@@ -47,7 +47,7 @@ Feel free to customize and extend the project according to your needs!
 As i have not used javascript or made it completely responsive, if you would like to contribute to the project, please follow these steps:
 
  1.   Fork the repository.
- 2.   Create a new branch for your feature: git checkout -b feature-name
- 3.   Commit your changes: git commit -m 'Add new feature'
- 4.   Push to the branch: git push origin feature-name
+ 2.   Create a new branch for your feature: `git checkout -b feature-name`
+ 3.   Commit your changes: `git commit -m 'Add new feature'`
+ 4.   Push to the branch: `git push origin feature-name`
  5.   Submit a pull request.
