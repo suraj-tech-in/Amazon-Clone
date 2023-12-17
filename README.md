@@ -32,3 +32,22 @@ These instructions will help you set up a copy of the project on your local mach
 
    ```bash
    git clone https://github.com/suraj-tech-in/amazon-clone.git
+
+## Usage
+
+To use the Amazon clone, follow these steps:
+
+1. Open the index.html file in your preferred web browser.
+2. Use the Amazon clone.
+
+Feel free to customize and extend the project according to your needs!
+
+## Contributing
+
+If you would like to contribute to the project, please follow these steps:
+
+ 1.   Fork the repository.
+ 2.   Create a new branch for your feature: git checkout -b feature-name
+ 3.   Commit your changes: git commit -m 'Add new feature'
+ 4.   Push to the branch: git push origin feature-name
+ 5.   Submit a pull request.
