@@ -9,7 +9,6 @@ A simple HTML and CSS implementation of an Amazon clone.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
